@@ -21,8 +21,8 @@
 #include <Wire.h>
 
 //Datos de WiFi
-const char* ssid = "AXTEL XTREMO-18D6";  // Aquí debes poner el nombre de tu red
-const char* password = "038C18D6";  // Aquí debes poner la contraseña de tu red
+const char* ssid = "Totalplay-8CA5";  // Aquí debes poner el nombre de tu red
+const char* password = "8CA549F8V2WtX8M3";  // Aquí debes poner la contraseña de tu red
 
 //Datos del broker MQTT
 //const char* mqtt_server = "192.168.15.27"; // Si estas en una red local, coloca la IP asignada, en caso contrario, coloca la IP publica
